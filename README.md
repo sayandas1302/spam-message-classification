@@ -1,2 +1,4 @@
 # spam-message-classification
-This project aims to develop a model for a spam message detection system using Natural Language Processing and Machine Learning techniques .
+In the digital age, the rapid proliferation of electronic communication platforms has brought countless advantages, allowing for quick and efficient information exchange. However, it has also paved the way for a significant problem: spam. These are unwanted, often irrelevant messages, sent over the internet to a large number of users, primarily for the purposes of advertising, phishing, spreading malware, and more. With the ongoing influx of spam affecting user experience and posing security threats, the need for a robust spam detection mechanism has never been more critical.
+
+Our project aimed to address this pressing issue by developing a machine learning model to differentiate between spam and legitimate messages. By automating the spam detection process, we hoped to protect users from potentially harmful content and improve the overall user experience by filtering out undesired communications.
